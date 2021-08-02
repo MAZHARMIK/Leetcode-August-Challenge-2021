@@ -16,5 +16,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Making%20A%20Large%20Island.cpp"><img src="https://clipartmag.com/images/island-clipart-images-31.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Two Sum</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Two%20Sum.cpp"><img src="https://i.ytimg.com/vi/2uWRxgN1Sbo/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

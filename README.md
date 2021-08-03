@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Two%20Sum.cpp"><img src="https://i.ytimg.com/vi/2uWRxgN1Sbo/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Subsets II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Subsets%20II.cpp"><img src="https://miro.medium.com/max/3520/1*3jLYOFeSUR5_S1mPGvJbHg.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

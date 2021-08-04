@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Subsets%20II.cpp"><img src="https://miro.medium.com/max/3520/1*3jLYOFeSUR5_S1mPGvJbHg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Path Sum II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Path%20Sum%20II.cpp"><img src="https://clipground.com/images/green-tree-clipart-10.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

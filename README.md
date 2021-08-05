@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Path%20Sum%20II.cpp"><img src="https://clipground.com/images/green-tree-clipart-10.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Stone Game</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Game%20Strategy/Stone%20Game.cpp"><img src="https://www.chromethemer.com/wallpapers/chromebook-wallpapers/download/stacking-stones-1920x1080.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

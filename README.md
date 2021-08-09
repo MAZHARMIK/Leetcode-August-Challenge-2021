@@ -51,5 +51,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Rank%20Transform%20of%20a%20Matrix.cpp"><img src="https://i.ytimg.com/vi/IRlO0SL4-ns/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Add Strings</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Add%20Strings.cpp"><img src="https://www.psdgraphics.com/file/blue-add-button.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

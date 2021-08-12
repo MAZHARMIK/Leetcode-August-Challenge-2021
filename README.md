@@ -61,5 +61,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Flip%20String%20to%20Monotone%20Increasing.cpp"><img src="https://ak4.picdn.net/shutterstock/videos/16050574/thumb/1.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Group Anagrams</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Group%20Anagrams.cpp"><img src="https://miro.medium.com/max/641/1*Dc5MaOQoPnHMp0XQzRfh8A.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Group%20Anagrams.cpp"><img src="https://miro.medium.com/max/641/1*Dc5MaOQoPnHMp0XQzRfh8A.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Set Matrix Zeroes</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Set%20Matrix%20Zeroes.cpp"><img src="https://dyclassroom.com/image/topic/java/array/2d/2d-array.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

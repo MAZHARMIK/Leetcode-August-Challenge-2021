@@ -71,5 +71,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Set%20Matrix%20Zeroes.cpp"><img src="https://dyclassroom.com/image/topic/java/array/2d/2d-array.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Remove Boxes</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Remove%20Boxes.cpp"><img src="https://www.ubeeco.com.au/wp-content/uploads/2019/07/cheap_cardboard_boxes_0.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

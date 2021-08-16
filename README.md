@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Minimum%20Window%20Substring.cpp"><img src="https://camo.githubusercontent.com/2fd527e1517f4551a8571a21304a01667b381e5478d559437c920161553230fd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313734342f312a6f575367725a76597043437a6667434337396f5261772e706e67" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Range Sum Query - Immutable</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Range%20Sum%20Query%20-%20Immutable.cpp"><img src="https://i1.wp.com/david-barreto.com/wp-content/uploads/2016/06/immutable_js_egghead_lesson_series.jpg?fit=1200%2C400&ssl=1" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

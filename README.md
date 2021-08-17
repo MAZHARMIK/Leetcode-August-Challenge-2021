@@ -86,5 +86,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Range%20Sum%20Query%20-%20Immutable.cpp"><img src="https://i1.wp.com/david-barreto.com/wp-content/uploads/2016/06/immutable_js_egghead_lesson_series.jpg?fit=1200%2C400&ssl=1" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Count Good Nodes in Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Count%20Good%20Nodes%20in%20Binary%20Tree.cpp"><img src="https://webstockreview.net/images/life-clipart-green-tree.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

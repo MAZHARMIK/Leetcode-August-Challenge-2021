@@ -91,5 +91,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Count%20Good%20Nodes%20in%20Binary%20Tree.cpp"><img src="https://webstockreview.net/images/life-clipart-green-tree.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Decode Ways</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Decode%20Ways.cpp"><img src="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Decode_Entertainment_1999.jpg/revision/latest/scale-to-width-down/300?cb=20150813153954" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

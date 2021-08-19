@@ -96,5 +96,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Decode%20Ways.cpp"><img src="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Decode_Entertainment_1999.jpg/revision/latest/scale-to-width-down/300?cb=20150813153954" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Decode Ways</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp"><img src="https://media.istockphoto.com/vectors/road-leading-to-the-different-direction-vector-id452097889?k=6&m=452097889&s=612x612&w=0&h=RwYOAeZdJ1T2oDzMKZwXWa95OlR2m8ZB0OuBTZQMY3w=" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

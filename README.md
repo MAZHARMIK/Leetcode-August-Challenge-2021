@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp"><img src="https://media.istockphoto.com/vectors/road-leading-to-the-different-direction-vector-id452097889?k=6&m=452097889&s=612x612&w=0&h=RwYOAeZdJ1T2oDzMKZwXWa95OlR2m8ZB0OuBTZQMY3w=" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Valid Sudoku</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Valid%20Sudoku.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/1200px-Sudoku-by-L2G-20050714.svg.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

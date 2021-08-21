@@ -106,5 +106,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Valid%20Sudoku.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/1200px-Sudoku-by-L2G-20050714.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Sudoku Solver</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Sudoku%20Solver.cpp"><img src="https://www.surfnetkids.com/games/play/wp-content/uploads/2014/12/bigstock-Sudoku-game-15203114.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

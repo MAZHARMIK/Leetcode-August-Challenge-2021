@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Sudoku%20Solver.cpp"><img src="https://www.surfnetkids.com/games/play/wp-content/uploads/2014/12/bigstock-Sudoku-game-15203114.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Rectangle Area II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Rectangle%20Area%20II.cpp"><img src="https://theengineeringmindset.com/wp-content/uploads/2015/02/AREA-OF-RECTANGLE1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

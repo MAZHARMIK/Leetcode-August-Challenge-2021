@@ -116,5 +116,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Rectangle%20Area%20II.cpp"><img src="https://theengineeringmindset.com/wp-content/uploads/2015/02/AREA-OF-RECTANGLE1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Two Sum IV - Input is a BST</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp"><img src="https://cdn-images-1.medium.com/max/1600/1*dfw-KM2BsFwpGZ_qFflpJw.jpeg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp"><img src="https://cdn-images-1.medium.com/max/1600/1*dfw-KM2BsFwpGZ_qFflpJw.jpeg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Complex Number Multiplication</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Complex%20Number%20Multiplication.cpp"><img src="https://saylordotorg.github.io/text_elementary-algebra/section_12/44ed886f360646381c66724be096e91c.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

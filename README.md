@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Complex%20Number%20Multiplication.cpp"><img src="https://saylordotorg.github.io/text_elementary-algebra/section_12/44ed886f360646381c66724be096e91c.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Sum of Square Numbers</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Sum%20of%20Square%20Numbers.cpp"><img src="https://4.bp.blogspot.com/_UtfJu2ggKvY/S_jpooSnFkI/AAAAAAAAEmQ/67m8fjP8Rr4/s1600/Picture1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

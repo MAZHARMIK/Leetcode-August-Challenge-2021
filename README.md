@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Sum%20of%20Square%20Numbers.cpp"><img src="https://4.bp.blogspot.com/_UtfJu2ggKvY/S_jpooSnFkI/AAAAAAAAEmQ/67m8fjP8Rr4/s1600/Picture1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Verify Preorder Serialization of a Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.cpp"><img src="https://2.bp.blogspot.com/-kWTt5ZX2o_E/V5NRtAo9kmI/AAAAAAAAGrM/DLMsAdH_R2s4UUDSlDwfsxYX3I4smm0SQCLcB/s1600/preorder+traversal+of+Binary+tree+in+Java.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

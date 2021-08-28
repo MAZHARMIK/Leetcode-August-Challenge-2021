@@ -136,5 +136,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.cpp"><img src="https://2.bp.blogspot.com/-kWTt5ZX2o_E/V5NRtAo9kmI/AAAAAAAAGrM/DLMsAdH_R2s4UUDSlDwfsxYX3I4smm0SQCLcB/s1600/preorder+traversal+of+Binary+tree+in+Java.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Profit in Job Scheduling</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Profit%20in%20Job%20Scheduling.cpp"><img src="https://www.opencodez.com/wp-content/uploads/2017/03/Oracle-Scheduler.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>

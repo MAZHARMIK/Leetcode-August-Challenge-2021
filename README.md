@@ -136,10 +136,14 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Leetcode-August-Challenge-2021/blob/main/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.cpp"><img src="https://2.bp.blogspot.com/-kWTt5ZX2o_E/V5NRtAo9kmI/AAAAAAAAGrM/DLMsAdH_R2s4UUDSlDwfsxYX3I4smm0SQCLcB/s1600/preorder+traversal+of+Binary+tree+in+Java.png" width="400" height="240"></a>
 			  </td>
 			</tr>
-			
 			<tr>
 			  <td>Patching Array</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Patching%20Array.cpp"><img src="https://yt3.ggpht.com/a/AATXAJx6XvyWV5UM7WUIfn56BamDjJAVirIkoW5BgA=s900-c-k-c0xffffffff-no-rj-mo" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Range Addition II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Cumulative_Sum(Prefix%20Array)/Range%20Addition%20II.cpp"><img src="https://contribute.geeksforgeeks.org/wp-content/uploads/two-d.png" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>

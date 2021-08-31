@@ -146,5 +146,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/augus
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Cumulative_Sum(Prefix%20Array)/Range%20Addition%20II.cpp"><img src="https://contribute.geeksforgeeks.org/wp-content/uploads/two-d.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Find Minimum in Rotated Sorted Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp"><img src="https://camo.githubusercontent.com/1692e9c089eead9c089482ca032d713c35c8e85f52b202ef2ece6525be95693d/68747470733a2f2f7777772e746f70636f6465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30372f62696e6172792d7365617263682e706e67" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
